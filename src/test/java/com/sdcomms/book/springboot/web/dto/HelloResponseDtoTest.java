@@ -1,4 +1,4 @@
-package com.sdcomms.book.springboot.web;
+package com.sdcomms.book.springboot.web.dto;
 
 import com.sdcomms.book.springboot.web.dto.HelloResponseDto;
 import org.junit.Test;
